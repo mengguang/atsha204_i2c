@@ -4,6 +4,7 @@ Arduino Library for Atmel CryptoAuthentication ATSHA204A chip
 This project is based on https://github.com/sparkfun/SparkFun_ATSHA204_Arduino_Library .  
 The SparkFun version is SWI (Single Wire Interface ).  
 This version is I2C interface.  
+Mainly tested on Arduino core for ESP8266 2.3.0 environment.
 
 I have added some simple function to get chip id and calculate mac.  
 
